@@ -13,7 +13,7 @@ A simple Python project for uploading files. This tool allows users to upload fi
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/file_uploader.git
+    git clone https://github.com/Ay00luwwa/file_uploader.git
     cd file_uploader
     ```
 
